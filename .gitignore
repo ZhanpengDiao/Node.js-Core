@@ -1,0 +1,5 @@
+*.gz
+BuildANewServer/ExpressBasics/node_modules
+Nodejs/node_modules
+Nodejs/bin
+BuildANewServer/StructureGenerator79/TestGenerator/bin
